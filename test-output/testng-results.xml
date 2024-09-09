@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="5" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-09T14:29:23 CDT" name="Suite" finished-at="2024-09-09T14:29:23 CDT" duration-ms="18">
+    <groups>
+    </groups>
+    <test started-at="2024-09-09T14:29:23 CDT" name="Test" finished-at="2024-09-09T14:29:23 CDT" duration-ms="18">
+      <class name="com.testng.training.NewTest1">
+        <test-method signature="test()[pri:0, instance:com.testng.training.NewTest1@39529185]" started-at="2024-09-09T14:29:23 CDT" name="test" finished-at="2024-09-09T14:29:23 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="Beforeclass()[pri:0, instance:com.testng.training.NewTest1@39529185]" started-at="2024-09-09T14:29:23 CDT" name="Beforeclass" finished-at="2024-09-09T14:29:23 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.testng.training.NewTest1@39529185]" started-at="2024-09-09T14:29:23 CDT" name="beforemethod" finished-at="2024-09-09T14:29:23 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method is-config="true" signature="Aftertest()[pri:0, instance:com.testng.training.NewTest1@39529185]" started-at="2024-09-09T14:29:23 CDT" name="Aftertest" finished-at="2024-09-09T14:29:23 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftertest -->
+        <test-method is-config="true" signature="Afterclass()[pri:0, instance:com.testng.training.NewTest1@39529185]" started-at="2024-09-09T14:29:23 CDT" name="Afterclass" finished-at="2024-09-09T14:29:23 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Afterclass -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.testng.training.NewTest1@39529185]" started-at="2024-09-09T14:29:23 CDT" name="aftermethod" finished-at="2024-09-09T14:29:23 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+      </class> <!-- com.testng.training.NewTest1 -->
+      <class name="com.testng.training.NewTest2">
+        <test-method is-config="true" signature="Beforesuite()[pri:0, instance:com.testng.training.NewTest2@1725dc0f]" started-at="2024-09-09T14:29:23 CDT" name="Beforesuite" finished-at="2024-09-09T14:29:23 CDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforesuite -->
+        <test-method is-config="true" signature="Beforetest()[pri:0, instance:com.testng.training.NewTest2@1725dc0f]" started-at="2024-09-09T14:29:23 CDT" name="Beforetest" finished-at="2024-09-09T14:29:23 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforetest -->
+        <test-method is-config="true" signature="Beforeclass()[pri:0, instance:com.testng.training.NewTest2@1725dc0f]" started-at="2024-09-09T14:29:23 CDT" name="Beforeclass" finished-at="2024-09-09T14:29:23 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Beforeclass -->
+        <test-method is-config="true" signature="beforemethod()[pri:0, instance:com.testng.training.NewTest2@1725dc0f]" started-at="2024-09-09T14:29:23 CDT" name="beforemethod" finished-at="2024-09-09T14:29:23 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method signature="test1()[pri:0, instance:com.testng.training.NewTest2@1725dc0f]" started-at="2024-09-09T14:29:23 CDT" name="test1" finished-at="2024-09-09T14:29:23 CDT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="aftermethod()[pri:0, instance:com.testng.training.NewTest2@1725dc0f]" started-at="2024-09-09T14:29:23 CDT" name="aftermethod" finished-at="2024-09-09T14:29:23 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method is-config="true" signature="Aftertest()[pri:0, instance:com.testng.training.NewTest2@1725dc0f]" started-at="2024-09-09T14:29:23 CDT" name="Aftertest" finished-at="2024-09-09T14:29:23 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftertest -->
+        <test-method is-config="true" signature="Afterclass()[pri:0, instance:com.testng.training.NewTest2@1725dc0f]" started-at="2024-09-09T14:29:23 CDT" name="Afterclass" finished-at="2024-09-09T14:29:23 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Afterclass -->
+        <test-method is-config="true" signature="Aftersuite()[pri:0, instance:com.testng.training.NewTest2@1725dc0f]" started-at="2024-09-09T14:29:23 CDT" name="Aftersuite" finished-at="2024-09-09T14:29:23 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aftersuite -->
+      </class> <!-- com.testng.training.NewTest2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
